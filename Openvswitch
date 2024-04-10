@@ -1,0 +1,4 @@
+OpenvSwitch (Open Virtual Switch) เป็นซอฟต์แวร์เครือข่ายที่ใช้ในระบบเสมือนจำลองและเครือข่ายจำลอง (virtual networking) 
+โดยเฉพาะในพื้นที่ของเครือข่ายเสมือน (virtualized networks) และเครือข่ายซอฟต์แวร์ (software-defined networking, SDN) 
+ซึ่งมักจะถูกใช้ในระบบคลัสเตอร์ (cluster), เซิร์ฟเวอร์เสมือน (virtualized servers), คลัสเตอร์คอมพิวเตอร์ (compute clusters), 
+และโครงข่ายในศูนย์ข้อมูล (data centers) ซึ่งต้องการความยืดหยุ่นและประสิทธิภาพสูงในการจัดการเครือข่ายเสมือนและการสื่อสารข้อมูล.
